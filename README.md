@@ -21,8 +21,7 @@ Easily bring your Unity projects to life with the Tween Animation package. This 
 
 - Dotween (Mandatory)
 - Odin Inspector (Optional, script adjustments needed if changed)
-- Custom AudioManager script (Mandatory, exclusively created by the package author; script adjustments needed if changed)
-  - *Additionally, the custom AudioManager script, exclusively created for animation sounds, is an essential component. Access the script from [this link](your-audiomanager-script-link).* 
+- [Audio Manager](https://github.com/Baran-Arslan/AudioManager): My completely free Audio Manager package. (Optional, script adjustments needed if changed)
 
 **Important Note:**
 
