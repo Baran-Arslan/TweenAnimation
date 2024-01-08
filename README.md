@@ -14,6 +14,8 @@ Easily bring your Unity projects to life with the Tween Animation package. This 
 2. **Usage:**
    - Choose a preset and sound for your animation in the Unity inspector.
    - Your animation is now ready to use; no additional code is required.
+![image](https://github.com/Baran-Arslan/TweenAnimation/assets/130396326/7c0dd2b4-9d1d-4b8a-b8fa-19cf11d90108)
+
 
 **Requirements:**
 
