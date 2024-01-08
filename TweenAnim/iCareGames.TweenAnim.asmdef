@@ -1,0 +1,16 @@
+{
+    "name": "iCareGames.TweenAnim",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4d9ccbaebb39a0342967c68be789574f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
